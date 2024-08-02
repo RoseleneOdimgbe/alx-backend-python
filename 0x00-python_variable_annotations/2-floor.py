@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
-"""This function returns the rounded down integer of a float"""
+"""
+This particular module contains a function that returns the rounded down integer of a
+float
+"""
 
 
 def floor(n: float) -> int:
