@@ -9,12 +9,13 @@ from typing import Tuple, List
 
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
     """
-    This returns a list that is the result of multiplying the elements of a
-    tuple by a factor
+    This returns a list that is the result of multiplying the elements of
+    a tuple by a factor
 
     Args:
         lst (Tuple): The tuple of integers
-        factor (int, optional): The factor to multiply the elements of the tuple
+        factor (int, optional): The factor to multiply
+        the elements of the tuple
         Defaults to 2
 
     Returns:
